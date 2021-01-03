@@ -10,11 +10,11 @@ It is a fun capital or Country guessing game. It generates random question from 
 and 50% capital question. 
 
 ## Rules 
--There are maximum 10 questions.
--You get one point for every correct answer.
--No point for skipped question.
--No negative mark for wrong answer(so do give it a shot)
--Game over after 10 Question.
+- There are maximum 10 questions.
+- You get one point for every correct answer.
+- No point for skipped question.
+- No negative mark for wrong answer(so do give it a shot)
+- Game over after 10 Question.
 
 ## Algorithm 
 It involves using keys and maps for captials and countries. A database is constructed with countries and their keys stored to ref. their capital.
