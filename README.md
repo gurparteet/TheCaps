@@ -70,7 +70,8 @@ public class Game {
 }
 ```
 
-> **First Look**
+## **First Look**
+
 ![First Look](/Assests/1.png)
 
 
