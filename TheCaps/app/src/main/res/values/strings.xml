@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TheCapsApp</string>
+    <string name="s1">SCORE =</string>
+    <string name="s2"> Q#1    </string>
+    <string name="s3">question</string>
+    <string name="s4" />
+    <string name="s5">YOUR ANSWER</string>
+    <string name="s6">DONE</string>
+</resources>
